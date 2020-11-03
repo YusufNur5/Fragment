@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PCS_Fragment_0097</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="linke_ke_fragment_kategori">Linke ke Fragment kategori</string>
+    <string name="halo_ini_fragment_home">Halo ini fragment home</string>
+</resources>
